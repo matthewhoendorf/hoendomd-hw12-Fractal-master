@@ -1,0 +1,35 @@
+# CxxTest
+testrunner.cpp
+testrunner
+
+# Emacs temp files
+*~
+
+# Compiled Object files
+a.out*
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Makefile Dependency file #
+############################
+.depend
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
